@@ -1,0 +1,10 @@
+{
+  "versionMin": 1,
+  "urlActualizar": "",
+  "aviso": "",
+  "banners": [
+    { "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reportalo24.jpg", "link": "https://www.instagram.com/reportalo24", "titulo": "Repórtalo 24 · Síguenos en Instagram" },
+    { "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/vente-venezuela.jpg", "link": "https://ventevenezuela.org", "titulo": "Vente Venezuela · Involúcrate" },
+    { "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reddefensoresguarico.jpg", "link": "https://www.instagram.com/reddefensoresguarico", "titulo": "Red de Defensores de los DD.HH. de Guárico" }
+  ]
+}
