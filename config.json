@@ -3,8 +3,29 @@
   "urlActualizar": "",
   "aviso": "",
   "banners": [
-    { "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reportalo24.jpg", "link": "https://www.instagram.com/reportalo24", "titulo": "Repórtalo 24 · Síguenos en Instagram" },
-    { "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/vente-venezuela.jpg", "link": "https://ventevenezuela.org", "titulo": "Vente Venezuela · Involúcrate" },
-    { "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reddefensoresguarico.jpg", "link": "https://www.instagram.com/reddefensoresguarico", "titulo": "Red de Defensores de los DD.HH. de Guárico" }
+    {
+      "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/kolsi-pro.jpg",
+      "imgCuadrada": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/kolsi-pro-1080.jpg",
+      "link": "https://wa.me/573108975090?text=Hola%2C%20quiero%20informaci%C3%B3n%20de%20Kolsi%20Pro%20Empresarial",
+      "titulo": "Kolsi Pro Empresarial · Todo tu negocio en tu bolsillo"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reportalo24.jpg",
+      "link": "https://www.instagram.com/reportalo24",
+      "titulo": "Repórtalo 24 · Síguenos en Instagram",
+      "imgCuadrada": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reportalo24-1080.jpg"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/vente-venezuela.jpg",
+      "link": "https://ventevenezuela.org",
+      "titulo": "Vente Venezuela · Involúcrate",
+      "imgCuadrada": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/vente-venezuela-1080.jpg"
+    },
+    {
+      "img": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reddefensoresguarico.jpg",
+      "link": "https://www.instagram.com/reddefensoresguarico",
+      "titulo": "Red de Defensores de los DD.HH. de Guárico",
+      "imgCuadrada": "https://raw.githubusercontent.com/ANUNCIOSCA/kolsi-tasas/main/banners/reddefensoresguarico-1080.jpg"
+    }
   ]
 }
